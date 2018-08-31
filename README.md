@@ -34,32 +34,66 @@ Para isso, precisamos que você crie as telas a seguir. O único requisito é ut
 
 ### 2.1 Telas
 
+  #### Landing
+
+Aqui você irá mostrar apenas as possíveis cidades e permitir que o usuário escolha uma delas.
+  <center>
+
+  ![Landing](./imgs/documentation/search.jpg)
+  IMG 00: Tela de pesquisa
+  </center>
+
+  <center>
+
+  ![Landing](./imgs/documentation/search-selecting.jpg)
+  IMG 01: Tela de pesquisa com lista das cidades 
+  </center>
+
+
+  #### Lista de restaurantes
+
+Após o amiguinho selecionar a cidade, terá uma lista com todos os restaurantes daquela cidade, podendo utilizar o filtro da esquerda para filtrar os restaurantes por nota, custo e tipo de cozinha:
+
+  ![Landing](./imgs/documentation/restaurants.jpg)
+  IMG 01: Tela de pesquisa com lista das cidades 
+  </center>
+
+
+
 ### 2.2 API
 
 Para dar vida ao site utilize a [API](https://developers.zomato.com/api?lang=pt) do [Zomato](https://www.zomato.com/pt/sao-paulo-sp) para pegar todas as informações necessárias para as duas páginas.
 
-As imagens das telas estão disponíveis neste repositório
 
 ### 2.3 Recursos
 
-Todas as imagens que precisará utilizar estão dentro deste repositório. 
+Todas as imagens que precisará utilizar estão dentro deste repositório em [imgs](/imgs).
+
+Os ícones são todos do [font-awesome](https://fontawesome.com/):
+  - [Pin mapa](https://fontawesome.com/icons?d=gallery&q=f3c5) (solid)
+  - [Estrela contorno](https://fontawesome.com/icons?d=gallery&q=f005) (regular)
+  - [Estrela full](https://fontawesome.com/icons?d=gallery&q=f005) (solid)
+  - [Duas pessoas](https://fontawesome.com/icons?d=gallery&q=f500) (solid)
 
 
+Fonte: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 
 
-
-## 3 Desafios Extras
+<!-- ## 3 Desafios Extras
 
 Se você é bão/dedicado e já terminou o __UaiFood__, meus parabéns!
 Você é foda! ❤️ 
 
-Implemente mais algumas dessas coisas e ganhe pontos extras com a gente. 
-
-
-### 3.1 Deploy
-
 Utilize qualquer ferramenta de deploy para deixar seu site funfando na internet. Nos mande o link e uma breve explicação do qual ferramenta utilizou, como fez e etc.
 
-### 3.2 Teste automatizado
+Implemente mais algumas dessas coisas e ganhe pontos extras com a gente: 
+ -->
 
-Crie teste automatizados onde achar necessário Explique o pq
+## 3 Boa sorte
+
+<center>
+
+![potato](./imgs/uaifood/potato/potato.jpg)
+</center>
+
+Mandavê 😘

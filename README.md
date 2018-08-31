@@ -27,7 +27,7 @@ Boa sorte!
 
 
 ## 2 UAIFOOD
-A Evnts é uma empresa mineira, cheia de mineiros, então nada melhor que inovarmos no que a gente sabe fazer de melhor: __comer__. Para isto, neste teste, você vai ter que nos ajudar e criar o "disruptivo" site __UaiFood__. 
+A Evnts é uma empresa mineira, cheia de mineiros, então nada melhor que inovarmos no que a gente sabe fazer de melhor: __comer__. Para isto, neste teste, você vai ter que nos ajudar e criar o ~~disruptivo~~ site __UaiFood__. 
 
 Para isto, siga as orientações abaixo e crie as telas a seguir:
 

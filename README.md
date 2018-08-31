@@ -67,7 +67,7 @@ Para dar vida ao site utilize a [API](https://developers.zomato.com/api?lang=pt)
 Todas as imagens que precisará utilizar estão dentro deste repositório em [imgs](/imgs/uaifood/).
 
 Os ícones são todos do [font-awesome](https://fontawesome.com/):
-  - [Pin mapa](https://fontawesome.com/icons?d=gallery&q=f3c5) (solid)
+  - ![Pin mapa](https://fontawesome.com/icons?d=gallery&q=f3c5) (solid)
   - [Estrela contorno](https://fontawesome.com/icons?d=gallery&q=f005) (regular)
   - [Estrela full](https://fontawesome.com/icons?d=gallery&q=f005) (solid)
   - [Duas pessoas](https://fontawesome.com/icons?d=gallery&q=f500) (solid)
@@ -89,6 +89,5 @@ Implemente mais algumas dessas coisas e ganhe pontos extras com a gente:
 ## 3 BOA SORTE
 <p align="center">
   <img align="center" src="./imgs/uaifood/potato/potato.jpg" alt="batatinha" />
+  mandavê 😘
 </p>
-
-mandavê 😘

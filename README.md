@@ -76,6 +76,12 @@ Os ícones são todos do [font-awesome](https://fontawesome.com/):
 
 Fonte: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 
+#### Especificações das telas:
+
+[Search](./imgs/search-selecting.jpg) 
+[Filter](./imgs/filter.jpg) 
+[Card](./imgs/card.jpg) 
+
 
 <!-- ## 3 Desafios Extras
 

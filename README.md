@@ -87,7 +87,8 @@ Implemente mais algumas dessas coisas e ganhe pontos extras com a gente:
  -->
 
 ## 3 BOA SORTE
-
-<img align="center" src="./imgs/uaifood/potato/potato.jpg" alt="batatinha" />
+<p align="center">
+  <img align="center" src="./imgs/uaifood/potato/potato.jpg" alt="batatinha" />
+</p>
 
 mandavê 😘

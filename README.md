@@ -2,13 +2,13 @@
 
 
   - [1. INTRODUÇÃO](#1-introdu%C3%A7%C3%A3o)
-  - [2 UaiFood](#2-uaifood)
+  - [2 UAIFOOD](#2-uaifood)
     - [2.1 Telas](#21-telas)
+      - [Landing](#landing)
+      - [Lista de restaurantes](#lista-de-restaurantes)
     - [2.2 API](#22-api)
     - [2.3 Recursos](#23-recursos)
-  - [3 Desafios Extras](#3-desafios-extras)
-    - [3.1 Deploy](#31-deploy)
-    - [3.2 Teste automatizado](#32-teste-automatizado)
+  - [3 BOA SORTE](#3-boa-sorte)
 
 ## 1. INTRODUÇÃO
 
@@ -26,7 +26,7 @@ Todo o seu código deve ser disponibilizado num repositório público ou privado
 Boa sorte!
 
 
-## 2 UaiFood
+## 2 UAIFOOD
 
 Nós mineiros somos conhecidos pela comida (principalmente o pão de queijo) então nada mais justo do que fazer algo inovador e que nunca foi feito: __UaiFood__.
 
@@ -89,7 +89,7 @@ Utilize qualquer ferramenta de deploy para deixar seu site funfando na internet.
 Implemente mais algumas dessas coisas e ganhe pontos extras com a gente: 
  -->
 
-## 3 Boa sorte
+## 3 BOA SORTE
 
 <center>
 

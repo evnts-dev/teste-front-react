@@ -18,10 +18,10 @@ Se você está lendo este documento você faz parte de um grupo de pessoas que a
 
 Fizemos este teste com muito carinho e esperamos que você consiga se sair bem 👍
 
-O teste consiste em testar suas abilidades em construir soluções para o _Front-end_ utiliziando as tecnologias que usamos na Evnts.
+O teste consiste em testar suas habilidades em construir soluções para o _Front-end_ utilizando as tecnologias que usamos na Evnts.
 
 
-Todo o seu código deve ser disponibilizado num repositório público ou privado em seu github ou bitbucket pessoal. Envie o link para o email que te enviamos (vagas@evnts.com.br).
+Todo o seu código deve ser disponibilizado em um repositório público ou privado em seu _github_ ou _bitbucket_ pessoal. Envie o link para o email que te enviamos (vagas@evnts.com.br).
 
 Boa sorte!
 
@@ -40,22 +40,19 @@ Aqui você irá mostrar apenas as possíveis cidades e permitir que o usuário e
   <center>
 
   ![Landing](./imgs/documentation/search.jpg)
-  IMG 00: Tela de pesquisa
   </center>
 
   <center>
 
   ![Landing](./imgs/documentation/search-selecting.jpg)
-  IMG 01: Tela de pesquisa com lista das cidades 
   </center>
 
 
   #### Lista de restaurantes
 
-Após o amiguinho selecionar a cidade, terá uma lista com todos os restaurantes daquela cidade, podendo utilizar o filtro da esquerda para filtrar os restaurantes por nota, custo e tipo de cozinha:
+Após o amiguinho selecionar a cidade, terá uma lista com todos os restaurantes da mesma, podendo utilizar o filtro da esquerda para filtrar os restaurantes por nota, custo e tipo de cozinha:
 
   ![Landing](./imgs/documentation/restaurants.jpg)
-  IMG 01: Tela de pesquisa com lista das cidades 
   </center>
 
 
@@ -91,9 +88,6 @@ Implemente mais algumas dessas coisas e ganhe pontos extras com a gente:
 
 ## 3 BOA SORTE
 
-<center>
+<img align="center" src="./imgs/uaifood/potato/potato.jpg" alt="batatinha" />
 
-![potato](./imgs/uaifood/potato/potato.jpg)
-</center>
-
-Mandavê 😘
+mandavê 😘

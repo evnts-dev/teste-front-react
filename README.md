@@ -14,14 +14,14 @@
 
 Olá! 😁
 
-Se você está lendo este documento você faz parte de um grupo de pessoas que acreditamos serem bons candidatos!
+Se você recebeu um convite para estar aqui você faz parte de um grupo de pessoas que acreditamos serem bons candidatos!
 
 Fizemos este teste com muito carinho e esperamos que você consiga se sair bem 👍
 
 O teste consiste em testar suas habilidades em construir soluções para o _Front-end_ utilizando as tecnologias que usamos na Evnts.
 
 
-Todo o seu código deve ser disponibilizado em um repositório público ou privado em seu _github_ ou _bitbucket_ pessoal. Envie o link para o email que te enviamos (vagas@evnts.com.br).
+Todo o seu código deve ser disponibilizado em um repositório em seu _github_ ou _bitbucket_ pessoal. Envie o link para o email que te enviamos (vagas@evnts.com.br).
 
 Boa sorte!
 
@@ -76,6 +76,7 @@ Os ícones são todos do [font-awesome](https://fontawesome.com/):
 
 Fonte: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 
+#### 2.3.1 Especificações das telas:
 <p align="center">
 
 ![Search](./imgs/specifications/search-selecting.jpg) 

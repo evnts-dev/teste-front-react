@@ -51,7 +51,7 @@ Aqui você irá mostrar apenas as cidades disponíveis na API e permitir que o u
 
   #### Lista de restaurantes
 
-Após o amiguinho selecionar a cidade, terá uma lista com todos os restaurantes da mesma, podendo utilizar o filtro da esquerda para filtrar os restaurantes por nota, custo e tipo de cozinha:
+Uma vez selecionada a cidade, o usuário poderá ver uma listagem com todos os restaurantes locais e filtrar (no menu a esquerda) por nota, custo e tipo de cozinha.
 
   ![Landing](./imgs/documentation/restaurants.jpg)
   </center>

@@ -76,13 +76,13 @@ Os ícones são todos do [font-awesome](https://fontawesome.com/):
 
 Fonte: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 
-#### Especificações das telas:
+<p align="center">
 
 ![Search](./imgs/specifications/search-selecting.jpg) 
 ![Filter](./imgs/specifications/filter.jpg) 
 ![Card](./imgs/specifications/card.jpg) 
 
-
+</p>
 <!-- ## 3 Desafios Extras
 
 Se você é bão/dedicado e já terminou o __UaiFood__, meus parabéns!

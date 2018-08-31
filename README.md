@@ -64,7 +64,7 @@ Para dar vida ao site utilize a [API](https://developers.zomato.com/api?lang=pt)
 
 ### 2.3 Recursos
 
-Todas as imagens que precisará utilizar estão dentro deste repositório em [imgs](/imgs).
+Todas as imagens que precisará utilizar estão dentro deste repositório em [imgs](/imgs/uaifood/).
 
 Os ícones são todos do [font-awesome](https://fontawesome.com/):
   - [Pin mapa](https://fontawesome.com/icons?d=gallery&q=f3c5) (solid)

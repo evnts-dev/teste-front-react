@@ -27,24 +27,25 @@ Boa sorte!
 
 
 ## 2 UAIFOOD
+A Evnts é uma empresa mineira, cheia de mineiros, então nada melhor que inovarmos no que a gente sabe fazer de melhor: __comer__. Para isto, neste teste, você vai ter que nos ajudar e criar o "disruptivo" site __UaiFood__. 
 
-Nós mineiros somos conhecidos pela comida (principalmente o pão de queijo) então nada mais justo do que fazer algo inovador e que nunca foi feito: __UaiFood__.
+Para isto, siga as orientações abaixo e crie as telas a seguir:
 
-Para isso, precisamos que você crie as telas a seguir. O único requisito é utilizar a biblioteca _React_ para construir os componetes de _UI_. Fique a vontade para utilizar qualquer outra biblioteca e/ou ferramenta que achar necessário ou interessante de usar (pré-processadores css, _styled components_, e qualquer outra coisa).
+ O único requisito é utilizar a biblioteca _React_ para construir os componetes de _UI_. Fique a vontade para utilizar qualquer outra biblioteca e/ou ferramenta que achar necessário ou interessante de usar (pré-processadores css, _styled components_, e qualquer outra coisa).
 
 ### 2.1 Telas
 
   #### Landing
 
-Aqui você irá mostrar apenas as possíveis cidades e permitir que o usuário escolha uma delas.
+Aqui você irá mostrar apenas as cidades disponíveis na API e permitir que o usuário escolha uma delas.
   <center>
 
-  ![Landing](./imgs/documentation/search.jpg)
+  ![BUSCA](./imgs/documentation/search.jpg)
   </center>
 
   <center>
 
-  ![Landing](./imgs/documentation/search-selecting.jpg)
+  ![BUSCA](./imgs/documentation/search-selecting.jpg)
   </center>
 
 
@@ -67,7 +68,7 @@ Para dar vida ao site utilize a [API](https://developers.zomato.com/api?lang=pt)
 Todas as imagens que precisará utilizar estão dentro deste repositório em [imgs](/imgs/uaifood/).
 
 Os ícones são todos do [font-awesome](https://fontawesome.com/):
-  - ![Pin mapa](https://fontawesome.com/icons?d=gallery&q=f3c5) (solid)
+  - [Pin mapa](https://fontawesome.com/icons?d=gallery&q=f3c5) (solid)
   - [Estrela contorno](https://fontawesome.com/icons?d=gallery&q=f005) (regular)
   - [Estrela full](https://fontawesome.com/icons?d=gallery&q=f005) (solid)
   - [Duas pessoas](https://fontawesome.com/icons?d=gallery&q=f500) (solid)
@@ -89,5 +90,6 @@ Implemente mais algumas dessas coisas e ganhe pontos extras com a gente:
 ## 3 BOA SORTE
 <p align="center">
   <img align="center" src="./imgs/uaifood/potato/potato.jpg" alt="batatinha" />
+  <br/>
   mandavê 😘
 </p>

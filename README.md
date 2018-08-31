@@ -78,9 +78,9 @@ Fonte: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 
 #### Especificações das telas:
 
-[Search](./imgs/search-selecting.jpg) 
-[Filter](./imgs/filter.jpg) 
-[Card](./imgs/card.jpg) 
+![Search](./imgs/specifications/search-selecting.jpg) 
+![Filter](./imgs/specifications/filter.jpg) 
+![Card](./imgs/specifications/card.jpg) 
 
 
 <!-- ## 3 Desafios Extras
